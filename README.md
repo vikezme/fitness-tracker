@@ -25,7 +25,7 @@ SCREENSHOTS:-
 
 LINKS:-
 
-https://github.com/Dinimar-Fishboi/Fitness-Tracker.git
+https://github.com/vikezme/fitness-tracker.git
 
 
 QUESTIONS:-
