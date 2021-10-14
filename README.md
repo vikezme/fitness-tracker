@@ -30,6 +30,7 @@ LINKS:-
 
 https://github.com/vikezme/fitness-tracker.git
 
+https://vikezme.github.io/fitness-tracker/
 
 QUESTIONS:-
 vikezme@gmail.com
