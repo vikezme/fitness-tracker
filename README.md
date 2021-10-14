@@ -19,7 +19,10 @@ TECHNOLOGY USED:-
 
 SCREENSHOTS:-
 
+![screenshot1fit](https://user-images.githubusercontent.com/76554370/137232069-ae13e862-c80a-415d-825d-9e466cb5fce2.JPG)
 
+
+![screenshot2fit](https://user-images.githubusercontent.com/76554370/137232088-ce991362-e126-42db-b065-51b37877e7b4.JPG)
 
 
 
@@ -30,4 +33,5 @@ https://github.com/vikezme/fitness-tracker.git
 
 QUESTIONS:-
 vikezme@gmail.com
+
 https://github.com/vikezme
